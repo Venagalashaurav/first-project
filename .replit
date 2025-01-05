@@ -1,0 +1,6 @@
+modules = ["python-3.11", "python3"]
+run = "python website.py"
+
+[[ports]]
+localPort = 5000
+externalPort = 80
